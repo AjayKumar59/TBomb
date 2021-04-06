@@ -33,7 +33,7 @@ banner() {
         echo -e "\e[4;34m This Bomber Was Created By \e[1;32mAth \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        toilet -f mono12 -F border SpeedX
+        toilet -f mono12 -F border Technobhar
     fi
     echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
     echo -e "\e[1;32m           Mail:  \e[0m"
